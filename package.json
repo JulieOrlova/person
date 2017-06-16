@@ -1,41 +1,20 @@
 {
-  "name": "personality-insights-nodejs",
-  "version": "3.0.0",
+  "name": "person",
+  "version": "1.0.0",
   "description": "A sample NodeJS app that uses the Personality Insights service",
   "repository": {
     "type": "git",
-    "url": "https://github.com/watson-developer-cloud/personality-insights-nodejs.git"
+    "url": "https://github.com/JulieOrlova/person.git"
   },
   "engines": {
     "node": ">=6.0",
     "npm": ">=3.0"
   },
-  "author": "IBM Corp.",
-  "contributors": [
-    {
-      "name": "James Zhang",
-      "email": "jzhang300@us.ibm.com"
-    },
-    {
-      "name": "Eva Xiaohui Luo",
-      "email": "evaluo_xhl@us.ibm.com"
-    },
-    {
-      "name": "German Attanasio Ruiz",
-      "email": "germanatt@us.ibm.com"
-    },
-    {
-      "name": "Ary Pablo Batista",
-      "email": "batarypa@ar.ibm.com"
-    },
-    {
-      "name": "Agustin Casamayor",
-      "email": "casamay@ar.ibm.com"
-    }
-  ],
+  "author": "jo",
+  "contributors": "jo",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/watson-developer-cloud/personality-insights-nodejs/issues"
+    "url": "https://github.com/JulieOrlova/person/issues"
   },
   "scripts": {
     "start": "node server.js",
